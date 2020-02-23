@@ -27,8 +27,20 @@ table tbody tr:nth-child(4) td:first-child {
 table tbody tr:nth-child(5) td:first-child {
     background-color: rgba(0, 0, 0, 0.4);
 } 
-table tbody tr:nth-child(5) td:first-child {
-    background-color: rgba(0, 0, 0, 0.4);
+table tbody tr:nth-child(6) td:first-child {
+    background-color: rgba(0, 0, 0, 0.5);
+} 
+table tbody tr:nth-child(7) td:first-child {
+    background-color: rgba(0, 0, 0, 0.6);
+} 
+table tbody tr:nth-child(8) td:first-child {
+    background-color: rgba(0, 0, 0, 0.7);
+} 
+table tbody tr:nth-child(9) td:first-child {
+    background-color: rgba(0, 0, 0, 0.8);
+} 
+table tbody tr:nth-child(10) td:first-child {
+    background-color: rgba(0, 0, 0, 1);
 } 
 h3{
     font: normal bold 18px;
