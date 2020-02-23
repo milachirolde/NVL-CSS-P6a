@@ -12,23 +12,29 @@ table thead th {
     font: normal bold 18px;
     padding: 10px;
 }
+table tbody tr:nth-child(1) td:first-child {
+    background-color: rgba(0, 0, 0, 0);
+} 
+table tbody tr:nth-child(2) td:first-child {
+    background-color: rgba(0, 0, 0, 0.1);
+} 
+table tbody tr:nth-child(3) td:first-child {
+    background-color: rgba(0, 0, 0, 0.2);
+} 
+table tbody tr:nth-child(4) td:first-child {
+    background-color: rgba(0, 0, 0, 0.3);
+} 
+table tbody tr:nth-child(5) td:first-child {
+    background-color: rgba(0, 0, 0, 0.4);
+} 
+table tbody tr:nth-child(5) td:first-child {
+    background-color: rgba(0, 0, 0, 0.4);
+} 
 h3{
     font: normal bold 18px;
     text-align: center;
 }
 .minerales {
-    width: 30px;
+    width: 40px;
     margin-right: 5px;
 }
-tr:nth-child(2), td:first-child {
-background-color: rgba(0, 0, 0, 0.0);
-}
-tr:nth-child(3), td:first-child {
-    background-color: rgba(0, 0, 0, 0.2);
-    }
-tr:nth-child(4), td:first-child {
-    background-color: rgba(0, 0, 0, 0.4);
-    }
-tr:nth-child(5), td:first-child {
-    background-color: rgba(0, 0, 0, 0.6);
-    }
