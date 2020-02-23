@@ -1,0 +1,34 @@
+
+table {
+    border-collapse: collapse;
+  }
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+  }
+
+table thead th {
+    font: normal bold 18px;
+    padding: 10px;
+}
+h3{
+    font: normal bold 18px;
+    text-align: center;
+}
+.minerales {
+    width: 30px;
+    margin-right: 5px;
+}
+tr:nth-child(2), td:first-child {
+background-color: rgba(0, 0, 0, 0.0);
+}
+tr:nth-child(3), td:first-child {
+    background-color: rgba(0, 0, 0, 0.2);
+    }
+tr:nth-child(4), td:first-child {
+    background-color: rgba(0, 0, 0, 0.4);
+    }
+tr:nth-child(5), td:first-child {
+    background-color: rgba(0, 0, 0, 0.6);
+    }
